@@ -1,6 +1,6 @@
 # id: 00678
 # difficulty: medium
-# tags: string, dynamic programming, stack, greedy
+# tags: string, dynamic_programming, stack, greedy
 # url: https://leetcode.com/problems/valid-parenthesis-string
 # time: O(n)
 # space: O(1)

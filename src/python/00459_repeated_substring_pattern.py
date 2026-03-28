@@ -1,6 +1,6 @@
 # id: 00459
 # difficulty: easy
-# tags: string, string matching
+# tags: string, string_matching
 # url: https://leetcode.com/problems/repeated-substring-pattern/
 # time: O(n^2) worst-case, O(n) average-case
 # space: O(n)
