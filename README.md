@@ -13,7 +13,7 @@ Problems Solved: 5
 ## Structure
 Files are named using the format:
 
-<id>_<slug>.py
+\<id\>_\<slug\>.py
 
 IDs are zero padded for consistent sorting.
 
