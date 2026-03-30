@@ -4,8 +4,8 @@ This repository contains my solutions to LeetCode problems, primarily in Python.
 My focus is on learning common problem solving patterns and writing clean implementations.
 
 ## Progress
-Problems Solved: 5
-- Easy: 4
+Problems Solved: 6
+- Easy: 5
 - Medium: 1
 - Hard: 0
 
